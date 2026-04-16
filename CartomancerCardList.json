@@ -61,7 +61,6 @@
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
     "effect 3": "[If Blocking] [Arcana Purge 1] Rest and seal 1 enemy card.",
-  }
 },
   "ARCN-002": {
     "id": "ARCN-002",
@@ -80,8 +79,7 @@
         "cost": 0,
         "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
         "isHorizontal": false
-      }
-    },
+},
     "name": "II. THE HIGH-PRIESTESS",
     "type 1": "Major Arcana",
     "type 2": "",
@@ -93,7 +91,36 @@
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
     "effect 3": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-  }
+},
+  "": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Card Back",
+        "type": "",
+        "cost": 0,
+        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "isHorizontal": false
+},
+    "name": "",
+    "type 1": "",
+    "type 2": "",
+    "cost": 0,
+    "rarity": "",
+    "suit 1": "",
+    "suit 2": "",
+    "promote": "",
+    "effect 1": "",
+    "effect 2": "",
+    "effect 3": "",
 },
   "": {
     "id": "",
@@ -125,7 +152,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -157,7 +183,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -189,7 +214,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -221,7 +245,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -253,7 +276,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -285,7 +307,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -317,7 +338,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -349,7 +369,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -381,7 +400,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -413,7 +431,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -445,7 +462,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -477,7 +493,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -509,7 +524,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -541,7 +555,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -573,7 +586,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -605,39 +617,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
 },
   "": {
     "id": "ARCN-020": {
@@ -670,7 +649,6 @@
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
     "effect 3": "[If Blocking] [Arcana Purge 1] Rest and seal 1 enemy card.",
-  }
 },
   "ARCN-021": {
     "id": "ARCN-021",
@@ -702,7 +680,6 @@
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
     "effect 3": "[If Blocking] [Arcana Purge 1] Rest and seal 1 enemy card.",
-  }
 },
   "": {
     "id": "",
@@ -734,7 +711,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -766,7 +742,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -798,7 +773,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -830,7 +804,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -862,7 +835,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -894,7 +866,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -926,7 +897,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -958,7 +928,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -990,7 +959,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1022,7 +990,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1054,7 +1021,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1086,7 +1052,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1118,7 +1083,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1150,7 +1114,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1182,7 +1145,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1214,7 +1176,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1246,7 +1207,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1278,7 +1238,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1310,7 +1269,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1342,7 +1300,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1374,7 +1331,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1406,7 +1362,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1438,7 +1393,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1470,7 +1424,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1502,7 +1455,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1534,7 +1486,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1566,7 +1517,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1598,7 +1548,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1630,7 +1579,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1662,7 +1610,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1694,7 +1641,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1726,7 +1672,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1758,7 +1703,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1790,7 +1734,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1822,7 +1765,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1854,7 +1796,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1886,7 +1827,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1918,7 +1858,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1950,7 +1889,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -1982,7 +1920,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2014,7 +1951,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2046,7 +1982,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2078,7 +2013,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2110,7 +2044,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2142,7 +2075,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2174,7 +2106,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2206,7 +2137,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2238,7 +2168,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2270,7 +2199,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2302,7 +2230,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2334,7 +2261,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2366,7 +2292,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2398,7 +2323,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2430,7 +2354,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
 },
   "": {
     "id": "",
@@ -2462,1543 +2385,6 @@
     "effect 1": "",
     "effect 2": "",
     "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
-},
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-00X.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Card Back",
-        "type": "",
-        "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type 1": "",
-    "type 2": "",
-    "cost": 0,
-    "rarity": "",
-    "suit 1": "",
-    "suit 2": "",
-    "promote": "",
-    "effect 1": "",
-    "effect 2": "",
-    "effect 3": "",
-  }
 },
   "": {
     "id": "",
