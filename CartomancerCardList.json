@@ -556,14 +556,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND",
+        "name": "II. THE SECOND WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-024.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND OF WANDS",
+    "name": "II. THE SECOND WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -580,14 +580,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD OF WANDS",
+        "name": "III. THE THIRD WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-025.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD OF WANDS",
+    "name": "III. THE THIRD WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -604,14 +604,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH OF WANDS",
+        "name": "IV. THE FOURTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-026.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH OF WANDS",
+    "name": "IV. THE FOURTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -628,14 +628,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH OF WANDS",
+        "name": "V. THE FIFTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-027.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH OF WANDS",
+    "name": "V. THE FIFTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -652,14 +652,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH OF WANDS",
+        "name": "VI. THE SIXTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-028.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH OF WANDS",
+    "name": "VI. THE SIXTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -676,14 +676,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH OF WANDS",
+        "name": "VII. THE SEVENTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-029.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH OF WANDS",
+    "name": "VII. THE SEVENTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -700,14 +700,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH OF WANDS",
+        "name": "VIII. THE EIGHTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-030.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH OF WANDS",
+    "name": "VIII. THE EIGHTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -724,14 +724,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH OF WANDS",
+        "name": "IX. THE NINTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-031.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH OF WANDS",
+    "name": "IX. THE NINTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -748,14 +748,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH OF WANDS",
+        "name": "X. THE TENTH WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-032.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH OF WANDS",
+    "name": "X. THE TENTH WANDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -772,7 +772,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE OF WANDS",
+        "name": "XI. THE PRINCE OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-033.jpg",
@@ -820,14 +820,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN OF WANDS",
+        "name": "XIII. THE QUEEN OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-035.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN OF WANDS",
+    "name": "XIII. THE QUEEN OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -844,14 +844,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING OF WANDS",
+        "name": "XIV. THE KING OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-036.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING OF WANDS",
+    "name": "XIV. THE KING OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -875,12 +875,12 @@
         "isHorizontal": false
       }
     },
-    "name": "I. THE ACE",
+    "name": "I. THE ACE OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Ace",
     "cost": 0,
     "rarity": "Rare",
-    "suit 1": "LANTERNS OF LANTERNS",
+    "suit 1": "LANTERNS",
     "suit 2": "",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "Can't attack",
@@ -892,14 +892,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND OF LANTERNS",
+        "name": "II. THE SECOND LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-038.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND OF LANTERNS",
+    "name": "II. THE SECOND LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -916,14 +916,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD OF LANTERNS",
+        "name": "III. THE THIRD LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-039.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD OF LANTERNS",
+    "name": "III. THE THIRD LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -940,14 +940,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH OF LANTERNS",
+        "name": "IV. THE FOURTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-040.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH OF LANTERNS",
+    "name": "IV. THE FOURTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -964,14 +964,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH OF LANTERNS",
+        "name": "V. THE FIFTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-042.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH OF LANTERNS",
+    "name": "V. THE FIFTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -988,14 +988,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH OF LANTERNS",
+        "name": "VI. THE SIXTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-043.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH OF LANTERNS",
+    "name": "VI. THE SIXTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1012,14 +1012,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH OF LANTERNS",
+        "name": "VII. THE SEVENTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-044.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH OF LANTERNS",
+    "name": "VII. THE SEVENTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1036,14 +1036,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH OF LANTERNS",
+        "name": "VIII. THE EIGHTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-045.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH OF LANTERNS",
+    "name": "VIII. THE EIGHTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1060,14 +1060,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH OF LANTERNS",
+        "name": "IX. THE NINTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-046.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH OF LANTERNS",
+    "name": "IX. THE NINTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1084,14 +1084,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH OF LANTERNS",
+        "name": "X. THE TENTH LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-047.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH OF LANTERNS",
+    "name": "X. THE TENTH LANTERNS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1108,7 +1108,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE OF LANTERNS",
+        "name": "XI. THE PRINCE OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-048.jpg",
@@ -1156,14 +1156,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN OF LANTERNS",
+        "name": "XIII. THE QUEEN OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-050.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN OF LANTERNS",
+    "name": "XIII. THE QUEEN OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1180,14 +1180,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING OF LANTERNS",
+        "name": "XIV. THE KING OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-051.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING OF LANTERNS",
+    "name": "XIV. THE KING OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1228,14 +1228,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND OF SWORDS",
+        "name": "II. THE SECOND SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-052.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND OF SWORDS",
+    "name": "II. THE SECOND SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1252,14 +1252,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD OF SWORDS",
+        "name": "III. THE THIRD SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-053.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD OF SWORDS",
+    "name": "III. THE THIRD SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1276,14 +1276,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH OF SWORDS",
+        "name": "IV. THE FOURTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-054.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH OF SWORDS",
+    "name": "IV. THE FOURTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1300,14 +1300,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH OF SWORDS",
+        "name": "V. THE FIFTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-055.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH OF SWORDS",
+    "name": "V. THE FIFTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1324,14 +1324,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH OF SWORDS",
+        "name": "VI. THE SIXTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-056.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH OF SWORDS",
+    "name": "VI. THE SIXTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1348,14 +1348,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH OF SWORDS",
+        "name": "VII. THE SEVENTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-057.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH OF SWORDS",
+    "name": "VII. THE SEVENTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1372,14 +1372,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH OF SWORDS",
+        "name": "VIII. THE EIGHTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-058.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH OF SWORDS",
+    "name": "VIII. THE EIGHTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1396,14 +1396,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH OF SWORDS",
+        "name": "IX. THE NINTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-059.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH OF SWORDS",
+    "name": "IX. THE NINTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1420,14 +1420,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH OF SWORDS",
+        "name": "X. THE TENTH SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-060.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH OF SWORDS",
+    "name": "X. THE TENTH SWORDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1444,7 +1444,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE OF SWORDS",
+        "name": "XI. THE PRINCE OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-061.jpg",
@@ -1492,14 +1492,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN OF SWORDS",
+        "name": "XIII. THE QUEEN OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-063.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN OF SWORDS",
+    "name": "XIII. THE QUEEN OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1516,14 +1516,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING OF SWORDS",
+        "name": "XIV. THE KING OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-064.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING OF SWORDS",
+    "name": "XIV. THE KING OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1547,7 +1547,7 @@
         "isHorizontal": false
       }
     },
-    "name": "I. THE ACE",
+    "name": "I. THE ACE OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Ace",
     "cost": 0,
@@ -1564,14 +1564,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND OF SHIELDS",
+        "name": "II. THE SECOND SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-066.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND OF SHIELDS",
+    "name": "II. THE SECOND SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1588,14 +1588,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD OF SHIELDS",
+        "name": "III. THE THIRD SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-067.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD OF SHIELDS",
+    "name": "III. THE THIRD SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1612,14 +1612,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH OF SHIELDS",
+        "name": "IV. THE FOURTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-068.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH OF SHIELDS",
+    "name": "IV. THE FOURTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1636,14 +1636,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH OF SHIELDS",
+        "name": "V. THE FIFTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-069.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH OF SHIELDS",
+    "name": "V. THE FIFTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1660,14 +1660,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH OF SHIELDS",
+        "name": "VI. THE SIXTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-070.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH OF SHIELDS",
+    "name": "VI. THE SIXTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1684,14 +1684,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH OF SHIELDS",
+        "name": "VII. THE SEVENTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-071.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH OF SHIELDS",
+    "name": "VII. THE SEVENTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1708,14 +1708,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH OF SHIELDS",
+        "name": "VIII. THE EIGHTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-072.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH OF SHIELDS",
+    "name": "VIII. THE EIGHTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1732,14 +1732,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH OF SHIELDS",
+        "name": "IX. THE NINTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-073.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH OF SHIELDS",
+    "name": "IX. THE NINTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1756,14 +1756,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH OF SHIELDS",
+        "name": "X. THE TENTH SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-074.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH OF SHIELDS",
+    "name": "X. THE TENTH SHIELDS",
     "type": "Minor Arcana",
     "type 2": "",
     "cost": 0,
@@ -1780,7 +1780,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE OF SHIELDS",
+        "name": "XI. THE PRINCE OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-075.jpg",
@@ -1828,14 +1828,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN OF SHIELDS",
+        "name": "XIII. THE QUEEN OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-077.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN OF SHIELDS",
+    "name": "XIII. THE QUEEN OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1852,14 +1852,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING OF SHIELDS",
+        "name": "XIV. THE KING OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-078.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING OF SHIELDS",
+    "name": "XIV. THE KING OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
@@ -1876,7 +1876,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "I. THE ACE",
+        "name": "I. THE FIRST CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-079.jpg",
@@ -1901,7 +1901,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND",
+        "name": "II. THE SECOND CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-080.jpg",
