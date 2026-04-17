@@ -2,9 +2,7 @@
   "name": "Cartomancer",
   "menuBackgroundImage": "",
   "defaultRessources": {
-    "backgrounds": [
-      "https://tari101190.github.io/Cartomancer/Cartomancer%20Playsheet.jpg"
-    ],
+    "backgrounds": [],
     "decksUrl": "https://tari101190.github.io/Cartomancer/CartomancerDecks.json"
   },
   "customHelp": "",
