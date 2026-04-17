@@ -3,10 +3,10 @@
     "title": "Cartomancer Deck",
     "id": "Cartomancer Deck",
     "game": "Cartomancer",
-    "format": "Cartomancer",
+    "format": ["Cartomancer"],
     "cardCount": 88,
-    "createdAt": "",
-    "lastModifiedAt": "",
+    "createdAt": "2026-04-17T19:01:30.701Z",
+    "lastModifiedAt": "2026-04-17T19:01:30.701Z",
     "deckList": {
       "categoriesOrder": [
         "Core Arcana",
