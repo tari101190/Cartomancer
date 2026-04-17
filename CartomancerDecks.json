@@ -1,17 +1,17 @@
 [
   {
-    "title": "Core Arcana Deck",
-    "id": "Core Arcana Deck",
+    "title": "Cartomancer Deck",
+    "id": "Cartomancer Deck",
     "game": "Cartomancer",
-    "format": "",
-    "cardCount": 10,
+    "format": "Classic",
+    "cardCount": 88,
     "createdAt": "",
     "lastModifiedAt": "",
     "deckList": {
       "categoriesOrder": [
-        "Core Arcana"
+        "Core Arcana",
         "Major Arcana",
-        "Minor Arcana",
+        "Minor Arcana"
       ],
       "Core Arcana": [
         {
@@ -54,22 +54,6 @@
           "count": 1,
           "id": "CORE-010"
         }
-      ]
-    }
-  },
-  {
-    "title": "Cartomancer Deck",
-    "id": "Cartomancer Deck",
-    "game": "Cartomancer",
-    "format": "",
-    "cardCount": 78,
-    "createdAt": "",
-    "lastModifiedAt": "",
-    "deckList": {
-      "categoriesOrder": [
-        "Core Arcana"
-        "Major Arcana",
-        "Minor Arcana",
       ],
       "Major Arcana": [
         {

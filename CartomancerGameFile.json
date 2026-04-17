@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Cartomancer",
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [
@@ -27,10 +27,10 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "61"
+        "drawPerTurn": "0"
       },
       "defaultNotes": "",
       "tokens": [],
@@ -40,30 +40,69 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Front-Line",
-          "Rear-Line"
+          "Core Arcana",
+          "Standing1",
+          "Standing2",
+          "Standing3",
+          "Standing4"
         ],
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "isSymetricalForOpponents": false,
-          "content": []
+          "content": [
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": false,
+              "content": [
+                {
+                  "sectionName": "Core Arcana",
+                  "size": "MEDIUM"
+                },
+                {
+                  "sectionName": "Standing1",
+                  "size": "MEDIUM"
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": false,
+              "content": [
+                {
+                  "sectionName": "Standing2",
+                  "size": "MEDIUM"
+                },
+                {
+                  "sectionName": "Standing3",
+                  "size": "MEDIUM"
+                },
+                {
+                  "sectionName": "Standing4",
+                  "size": "MEDIUM"
+                }
+              ]
+            }
+          ]
         },
         "categoriesAlreadyOnBoard": [
-          "Minor/Major Arcana Deck",
-          "Core Arcana Deck"
+          "Core Arcana",
+          "Standing1",
+          "Standing2",
+          "Standing3",
+          "Standing4"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+          "Core Arcana": {
+            "title": "Core Arcana",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "Core Deck",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -71,6 +110,70 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           }
+        },
+        "Standing1": {
+          "title": "Standing1",
+          "isHidden": "no",
+          "height": "MEDIUM",
+          "alignment": "CENTER",
+          "opponentAlignment": false,
+          "noAutoPayTo": "false",
+          "isHorizontalAllowed": true,
+          "displayedTitle": "Front Line",
+          "enterTapped": true,
+          "enterSpun": false,
+          "isGroupForbidden": false,
+          "keepTappedNewTurn": false,
+          "showHiddenCardInHistory": true,
+          "noQuickActions": false
+        },
+        "Standing2": {
+          "title": "Standing2",
+          "isHidden": "no",
+          "height": "MEDIUM",
+          "alignment": "CENTER",
+          "opponentAlignment": false,
+          "noAutoPayTo": "false",
+          "isHorizontalAllowed": true,
+          "displayedTitle": "Rear Line",
+          "enterTapped": true,
+          "enterSpun": false,
+          "isGroupForbidden": false,
+          "keepTappedNewTurn": false,
+          "showHiddenCardInHistory": true,
+          "noQuickActions": false
+        },
+        "Standing3": {
+          "title": "Standing3",
+          "isHidden": "no",
+          "height": "MEDIUM",
+          "alignment": "CENTER",
+          "opponentAlignment": false,
+          "noAutoPayTo": "false",
+          "isHorizontalAllowed": true,
+          "displayedTitle": "Rear Line",
+          "enterTapped": true,
+          "enterSpun": false,
+          "isGroupForbidden": false,
+          "keepTappedNewTurn": false,
+          "showHiddenCardInHistory": true,
+          "noQuickActions": false
+        },
+        "Standing4": {
+          "title": "Standing4",
+          "isHidden": "no",
+          "height": "MEDIUM",
+          "alignment": "CENTER",
+          "opponentAlignment": false,
+          "noAutoPayTo": "false",
+          "isHorizontalAllowed": true,
+          "displayedTitle": "Rear Line",
+          "enterTapped": true,
+          "enterSpun": false,
+          "isGroupForbidden": false,
+          "keepTappedNewTurn": false,
+          "showHiddenCardInHistory": true,
+          "noQuickActions": false
         }
       }
     }
