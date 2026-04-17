@@ -91,7 +91,7 @@
           "Core Arcana": {
             "title": "Core Arcana",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
             "drawPerTurn": 0,
             "opponentAlignment": false,
@@ -108,7 +108,7 @@
           "Standing1": {
             "title": "Standing1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -124,7 +124,7 @@
           "Standing2": {
             "title": "Standing2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -140,7 +140,7 @@
           "Standing3": {
             "title": "Standing3",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -156,7 +156,7 @@
           "Standing4": {
             "title": "Standing4",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
