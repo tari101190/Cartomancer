@@ -60,11 +60,11 @@
               "isSymetricalForOpponents": false,
               "content": [
                 {
-                  "sectionName": "Core Arcana",
+                  "section": "Core Arcana",
                   "size": "MEDIUM"
                 },
                 {
-                  "sectionName": "Standing1",
+                  "section": "Standing1",
                   "size": "MEDIUM"
                 }
               ]
@@ -74,15 +74,15 @@
               "isSymetricalForOpponents": false,
               "content": [
                 {
-                  "sectionName": "Standing2",
+                  "section": "Standing2",
                   "size": "MEDIUM"
                 },
                 {
-                  "sectionName": "Standing3",
+                  "section": "Standing3",
                   "size": "MEDIUM"
                 },
                 {
-                  "sectionName": "Standing4",
+                  "section": "Standing4",
                   "size": "MEDIUM"
                 }
               ]
