@@ -3,15 +3,15 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [
-      "https://github.com/tari101190/Cartomancer.github.io/blob/main/Cartomancer%20Playsheet.jpg"
+      "https://tari101190.github.io/Cartomancer.github.io/Cartomancer%20Playsheet.jpg"
     ],
-    "decksUrl": "https://github.com/tari101190/Cartomancer.github.io/blob/main/CartomancerDecks.json"
+    "decksUrl": "https://tari101190.github.io/Cartomancer.github.io/CartomancerDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/tari101190/Cartomancer.github.io/blob/main/CartomancerCardList.json",
-    "cardBack": "https://github.com/tari101190/Cartomancer.github.io/blob/main/Cartomancer-089.jpg"
+    "dataUrl": "https://tari101190.github.io/Cartomancer.github.io/CartomancerCardList.json",
+    "cardBack": "https://tari101190.github.io/Cartomancer.github.io/Cartomancer-089.jpg"
   },
   "deckBuilding": {
     "mainFilters": [],
