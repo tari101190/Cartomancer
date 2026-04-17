@@ -15,7 +15,12 @@
   },
   "deckBuilding": {
     "mainFilters": [],
-    "formats": []
+    "formats": [
+      {
+        "title": "Cartomancer",
+        "gameplay": "Classic"
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
