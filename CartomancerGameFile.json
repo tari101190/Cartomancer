@@ -39,9 +39,7 @@
       },
       "defaultNotes": "",
       "tokens": [],
-      "countersStartingValues": [
-        0
-      ],
+      "countersStartingValues": [],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
@@ -60,12 +58,10 @@
               "isSymetricalForOpponents": false,
               "content": [
                 {
-                  "section": "Core Arcana",
-                  "size": "MEDIUM"
+                  "section": "Core Arcana"
                 },
                 {
-                  "section": "Standing1",
-                  "size": "MEDIUM"
+                  "section": "Standing1"
                 }
               ]
             },
@@ -74,27 +70,20 @@
               "isSymetricalForOpponents": false,
               "content": [
                 {
-                  "section": "Standing2",
-                  "size": "MEDIUM"
+                  "section": "Standing2"
                 },
                 {
-                  "section": "Standing3",
-                  "size": "MEDIUM"
+                  "section": "Standing3"
                 },
                 {
-                  "section": "Standing4",
-                  "size": "MEDIUM"
+                  "section": "Standing4"
                 }
               ]
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Core Arcana",
-          "Standing1",
-          "Standing2",
-          "Standing3",
-          "Standing4"
+          "Core Arcana"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -123,15 +112,15 @@
           "height": "MEDIUM",
           "alignment": "CENTER",
           "opponentAlignment": false,
-          "noAutoPayTo": "false",
+          "noAutoPayTo": false,
           "isHorizontalAllowed": true,
           "displayedTitle": "Front Line",
-          "enterTapped": true,
+          "noQuickActions": false,
+          "enterTapped": false,
           "enterSpun": false,
           "isGroupForbidden": false,
           "keepTappedNewTurn": false,
-          "showHiddenCardInHistory": true,
-          "noQuickActions": false
+          "showHiddenCardInHistory": false
         },
         "Standing2": {
           "title": "Standing2",
@@ -139,15 +128,15 @@
           "height": "MEDIUM",
           "alignment": "CENTER",
           "opponentAlignment": false,
-          "noAutoPayTo": "false",
+          "noAutoPayTo": false,
           "isHorizontalAllowed": true,
           "displayedTitle": "Rear Line",
-          "enterTapped": true,
+          "noQuickActions": false,
+          "enterTapped": false,
           "enterSpun": false,
           "isGroupForbidden": false,
           "keepTappedNewTurn": false,
-          "showHiddenCardInHistory": true,
-          "noQuickActions": false
+          "showHiddenCardInHistory": false
         },
         "Standing3": {
           "title": "Standing3",
@@ -155,15 +144,15 @@
           "height": "MEDIUM",
           "alignment": "CENTER",
           "opponentAlignment": false,
-          "noAutoPayTo": "false",
+          "noAutoPayTo": false,
           "isHorizontalAllowed": true,
           "displayedTitle": "Rear Line",
-          "enterTapped": true,
+          "noQuickActions": false,
+          "enterTapped": false,
           "enterSpun": false,
           "isGroupForbidden": false,
           "keepTappedNewTurn": false,
-          "showHiddenCardInHistory": true,
-          "noQuickActions": false
+          "showHiddenCardInHistory": false
         },
         "Standing4": {
           "title": "Standing4",
@@ -171,15 +160,15 @@
           "height": "MEDIUM",
           "alignment": "CENTER",
           "opponentAlignment": false,
-          "noAutoPayTo": "false",
+          "noAutoPayTo": false,
           "isHorizontalAllowed": true,
           "displayedTitle": "Rear Line",
-          "enterTapped": true,
+          "noQuickActions": false,
+          "enterTapped": false,
           "enterSpun": false,
           "isGroupForbidden": false,
           "keepTappedNewTurn": false,
-          "showHiddenCardInHistory": true,
-          "noQuickActions": false
+          "showHiddenCardInHistory": false
         }
       }
     }
