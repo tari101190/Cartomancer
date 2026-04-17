@@ -13,11 +13,11 @@
     },
     "name": "0. THE BARD",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Arcana Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] Any 2 cards.",
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
@@ -37,11 +37,11 @@
     },
     "name": "I. THE MAGE",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Arcana Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] Any 2 cards.",
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
@@ -61,7 +61,7 @@
     },
     "name": "II. THE HIGH-PRIESTESS",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -85,7 +85,7 @@
     },
     "name": "III. THE EMPRESS",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -109,7 +109,7 @@
     },
     "name": "IV. THE EMPEROR",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "SWORDS",
@@ -133,7 +133,7 @@
     },
     "name": "V. THE HIGH-PRIEST",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -157,7 +157,7 @@
     },
     "name": "VI. UNITY",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -181,7 +181,7 @@
     },
     "name": "VII. THE RIDER",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "SWORDS",
@@ -205,7 +205,7 @@
     },
     "name": "VIII. THE POWER",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "SWORDS",
@@ -229,7 +229,7 @@
     },
     "name": "IX. THE SAGE",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -253,7 +253,7 @@
     },
     "name": "X. FATE",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -277,7 +277,7 @@
     },
     "name": "XI. JUSTICE",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -301,7 +301,7 @@
     },
     "name": "XII. THE HANGED",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -325,7 +325,7 @@
     },
     "name": "XIII. DEATH",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -349,7 +349,7 @@
     },
     "name": "XIV. WILL",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -373,7 +373,7 @@
     },
     "name": "XV. THE DEVIL",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -397,7 +397,7 @@
     },
     "name": "XVI. THE TOWER",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -421,7 +421,7 @@
     },
     "name": "XVII. THE STAR",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -445,7 +445,7 @@
     },
     "name": "XVIII. THE MOON",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "LANTERNS",
@@ -469,7 +469,7 @@
     },
     "name": "XIX. THE SUN",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Super Rare",
     "suit 1": "WANDS",
@@ -493,11 +493,11 @@
     },
     "name": "XX. JUDGEMENT",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Arcana Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] Any 2 cards.",
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
@@ -517,11 +517,11 @@
     },
     "name": "XXI. THE WORLD",
     "type": "Major Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Arcana Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] Any 2 cards.",
     "effect 1": "[If Attacking] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Rest and seal 1 enemy card.",
@@ -532,24 +532,24 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "I. THE ACE",
+        "name": "I. THE ACE OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-023.jpg",
         "isHorizontal": false
       }
     },
-    "name": "I. THE ACE",
+    "name": "I. THE ACE OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Ace",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "WANDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [WANDS] card.",
     "effect 1": "Can't attack",
     "effect 2": "[Your Action Phase] [Arcana Purge 1] Reveal the top 3 cards of your Minor/Major Arcana Deck: You may add 1 revealed [WANDS] card to hand. You may equip 1 revealed card under 1 of your [WANDS] cards. Bottom deck the remaining cards in any order.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-002": {
     "id": "WAND-002",
@@ -563,229 +563,229 @@
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND",
+    "name": "II. THE SECOND OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-003": {
     "id": "WAND-003",
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD",
+        "name": "III. THE THIRD OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-025.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD",
+    "name": "III. THE THIRD OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-004": {
     "id": "WAND-004",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH",
+        "name": "IV. THE FOURTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-026.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH",
+    "name": "IV. THE FOURTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-005": {
     "id": "WAND-005",
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH",
+        "name": "V. THE FIFTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-027.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH",
+    "name": "V. THE FIFTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-006": {
     "id": "WAND-006",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH",
+        "name": "VI. THE SIXTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-028.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH",
+    "name": "VI. THE SIXTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-007": {
     "id": "WAND-007",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH",
+        "name": "VII. THE SEVENTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-029.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH",
+    "name": "VII. THE SEVENTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-008": {
     "id": "WAND-008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH",
+        "name": "VIII. THE EIGHTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-030.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH",
+    "name": "VIII. THE EIGHTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-009": {
     "id": "WAND-009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH",
+        "name": "IX. THE NINTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-031.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH",
+    "name": "IX. THE NINTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-010": {
     "id": "WAND-010",
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH",
+        "name": "X. THE TENTH OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-032.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH",
+    "name": "X. THE TENTH OF WANDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "WAND-011": {
     "id": "WAND-011",
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE",
+        "name": "XI. PRINCE OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-033.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XI. THE PRINCE",
+    "name": "XI. THE PRINCE OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "WANDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [WANDS] card.",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -796,20 +796,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XII. THE KNIGHT",
+        "name": "XII. THE KNIGHT OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-034.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XII. THE KNIGHT",
+    "name": "XII. THE KNIGHT OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "WANDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [WANDS] card.",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -820,20 +820,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN",
+        "name": "XIII. QUEEN OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-035.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN",
+    "name": "XIII. QUEEN OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "WANDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [WANDS] card.",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -844,20 +844,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING",
+        "name": "XIV. KING OF WANDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-036.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING",
+    "name": "XIV. KING OF WANDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "WANDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [WANDS] card.",
     "effect 1": "[If Attacking] [SHIELDS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -868,7 +868,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "I. THE ACE",
+        "name": "I. THE ACE OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-037.jpg",
@@ -880,248 +880,248 @@
     "type 2": "Ace",
     "cost": 0,
     "rarity": "Rare",
-    "suit 1": "LANTERNS",
-    "suit 2": "",
+    "suit 1": "LANTERNS OF LANTERNS",
+    "suit 2": ",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "Can't attack",
     "effect 2": "[Your Action Phase] [Arcana Purge 1] Reveal the top 3 cards of your Minor/Major Arcana Deck: You may add 1 revealed [LANTERNS] card to hand. You may equip 1 revealed card under 1 of your [LANTERNS] cards. Bottom deck the remaining cards in any order.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-002": {
     "id": "LANT-002",
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND",
+        "name": "II. THE SECOND OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-038.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND",
+    "name": "II. THE SECOND OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-003": {
     "id": "LANT-003",
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD",
+        "name": "III. THE THIRD OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-039.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD",
+    "name": "III. THE THIRD OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-004": {
     "id": "LANT-004",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH",
+        "name": "IV. THE FOURTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-040.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH",
+    "name": "IV. THE FOURTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-005": {
     "id": "LANT-005",
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH",
+        "name": "V. THE FIFTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-042.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH",
+    "name": "V. THE FIFTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-006": {
     "id": "LANT-006",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH",
+        "name": "VI. THE SIXTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-043.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH",
+    "name": "VI. THE SIXTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-007": {
     "id": "LANT-007",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH",
+        "name": "VII. THE SEVENTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-044.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH",
+    "name": "VII. THE SEVENTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-008": {
     "id": "LANT-008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH",
+        "name": "VIII. THE EIGHTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-045.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH",
+    "name": "VIII. THE EIGHTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-009": {
     "id": "LANT-009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH",
+        "name": "IX. THE NINTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-046.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH",
+    "name": "IX. THE NINTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-010": {
     "id": "LANT-010",
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH",
+        "name": "X. THE TENTH OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-047.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH",
+    "name": "X. THE TENTH OF LANTERNS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
-    "effect 3": ""
+    "effect 3": "
   },
   "LANT-011": {
     "id": "LANT-011",
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE",
+        "name": "XI. PRINCE OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-048.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XI. THE PRINCE",
+    "name": "XI. THE PRINCE OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "LANTERNS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -1132,20 +1132,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XII. THE KNIGHT",
+        "name": "XII. THE KNIGHT OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-049.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XII. THE KNIGHT",
+    "name": "XII. THE KNIGHT OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "LANTERNS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -1156,20 +1156,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN",
+        "name": "XIII. QUEEN OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-050.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN",
+    "name": "XIII. QUEEN OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "LANTERNS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -1180,20 +1180,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING",
+        "name": "XIV. KING OF LANTERNS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-051.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING",
+    "name": "XIV. KING OF LANTERNS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "LANTERNS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [LANTERNS] card.",
     "effect 1": "[If Attacking] [WANDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Discard 1 enemy equip card.",
@@ -1204,260 +1204,260 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "I. THE ACE",
+        "name": "I. THE ACE OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-051.jpg",
         "isHorizontal": false
       }
     },
-    "name": "I. THE ACE",
+    "name": "I. THE ACE OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Ace",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SWORDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SWORDS] card.",
     "effect 1": "Can't attack",
     "effect 2": "[Your Action Phase] [Arcana Purge 1] Reveal the top 3 cards of your Minor/Major Arcana Deck: You may add 1 revealed [SWORDS] card to hand. You may equip 1 revealed card under 1 of your [SWORDS] cards. Bottom deck the remaining cards in any order.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-002": {
     "id": "SWRD-002",
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND",
+        "name": "II. THE SECOND OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-052.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND",
+    "name": "II. THE SECOND OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-003": {
     "id": "SWRD-003",
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD",
+        "name": "III. THE THIRD OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-053.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD",
+    "name": "III. THE THIRD OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-004": {
     "id": "SWRD-004",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH",
+        "name": "IV. THE FOURTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-054.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH",
+    "name": "IV. THE FOURTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-005": {
     "id": "SWRD-005",
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH",
+        "name": "V. THE FIFTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-055.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH",
+    "name": "V. THE FIFTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-006": {
     "id": "SWRD-006",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH",
+        "name": "VI. THE SIXTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-056.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH",
+    "name": "VI. THE SIXTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-007": {
     "id": "SWRD-007",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH",
+        "name": "VII. THE SEVENTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-057.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH",
+    "name": "VII. THE SEVENTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-008": {
     "id": "SWRD-008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH",
+        "name": "VIII. THE EIGHTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-058.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH",
+    "name": "VIII. THE EIGHTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-009": {
     "id": "SWRD-009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH",
+        "name": "IX. THE NINTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-059.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH",
+    "name": "IX. THE NINTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-010": {
     "id": "SWRD-010",
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH",
+        "name": "X. THE TENTH OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-060.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH",
+    "name": "X. THE TENTH OF SWORDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SWRD-011": {
     "id": "SWRD-011",
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE",
+        "name": "XI. PRINCE OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-061.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XI. THE PRINCE",
+    "name": "XI. THE PRINCE OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SWORDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SWORDS] card.",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
@@ -1468,20 +1468,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XII. THE KNIGHT",
+        "name": "XII. THE KNIGHT OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-062.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XII. THE KNIGHT",
+    "name": "XII. THE KNIGHT OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SWORDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SWORDS] card.",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
@@ -1492,20 +1492,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN",
+        "name": "XIII. QUEEN OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-063.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN",
+    "name": "XIII. QUEEN OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SWORDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SWORDS] card.",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
@@ -1516,20 +1516,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING",
+        "name": "XIV. KING OF SWORDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-064.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING",
+    "name": "XIV. KING OF SWORDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SWORDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SWORDS] card.",
     "effect 1": "[If Attacking] [LANTERNS] Gain 1 AP for the battle.",
     "effect 2": "[If Attacking] [Arcana Purge 1] Gain 2 AP for the battle.",
@@ -1540,7 +1540,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "I. THE ACE",
+        "name": "I. THE ACE OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-065.jpg",
@@ -1553,247 +1553,247 @@
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SHIELDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SHIELDS] card.",
     "effect 1": "Can't attack",
     "effect 2": "[Your Action Phase] [Arcana Purge 1] Reveal the top 3 cards of your Minor/Major Arcana Deck: You may add 1 revealed [SHIELDS] card to hand. You may equip 1 revealed card under 1 of your [SHIELDS] cards. Bottom deck the remaining cards in any order.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-002": {
     "id": "SHLD-002",
     "isToken": false,
     "face": {
       "front": {
-        "name": "II. THE SECOND",
+        "name": "II. THE SECOND OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-066.jpg",
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND",
+    "name": "II. THE SECOND OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-003": {
     "id": "SHLD-003",
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD",
+        "name": "III. THE THIRD OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-067.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD",
+    "name": "III. THE THIRD OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-004": {
     "id": "SHLD-004",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH",
+        "name": "IV. THE FOURTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-068.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH",
+    "name": "IV. THE FOURTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-005": {
     "id": "SHLD-005",
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH",
+        "name": "V. THE FIFTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-069.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH",
+    "name": "V. THE FIFTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-006": {
     "id": "SHLD-006",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH",
+        "name": "VI. THE SIXTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-070.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH",
+    "name": "VI. THE SIXTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-007": {
     "id": "SHLD-007",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH",
+        "name": "VII. THE SEVENTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-071.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH",
+    "name": "VII. THE SEVENTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-008": {
     "id": "SHLD-008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH",
+        "name": "VIII. THE EIGHTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-072.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH",
+    "name": "VIII. THE EIGHTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-009": {
     "id": "SHLD-009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH",
+        "name": "IX. THE NINTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-073.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH",
+    "name": "IX. THE NINTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-010": {
     "id": "SHLD-010",
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH",
+        "name": "X. THE TENTH OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-074.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH",
+    "name": "X. THE TENTH OF SHIELDS",
     "type": "Minor Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
-    "effect 3": ""
+    "effect 3": "
   },
   "SHLD-011": {
     "id": "SHLD-011",
     "isToken": false,
     "face": {
       "front": {
-        "name": "XI. PRINCE",
+        "name": "XI. PRINCE OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-075.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XI. THE PRINCE",
+    "name": "XI. THE PRINCE OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SHIELDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SHIELDS] card.",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
@@ -1804,20 +1804,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XII. THE KNIGHT",
+        "name": "XII. THE KNIGHT OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-076.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XII. THE KNIGHT",
+    "name": "XII. THE KNIGHT OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SHIELDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SHIELDS] card.",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
@@ -1828,20 +1828,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIII. QUEEN",
+        "name": "XIII. QUEEN OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-077.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIII. QUEEN",
+    "name": "XIII. QUEEN OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SHIELDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SHIELDS] card.",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
@@ -1852,20 +1852,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "XIV. KING",
+        "name": "XIV. KING OF SHIELDS",
         "type": "Minor Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-078.jpg",
         "isHorizontal": false
       }
     },
-    "name": "XIV. KING",
+    "name": "XIV. KING OF SHIELDS",
     "type": "Minor Arcana",
     "type 2": "Court",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "SHIELDS",
-    "suit 2": "",
+    "suit 2": ",
     "promote": "[Promote] 1 [SHIELDS] card.",
     "effect 1": "[If Attacking] [SWORDS] Gain 1 AP for the battle.",
     "effect 2": "[If Blocking] [Arcana Purge 1] Enemy loses 2 AP for the battle.",
@@ -1883,14 +1883,14 @@
         "isHorizontal": false
       }
     },
-    "name": "I. THE ACE",
+    "name": "I. THE FIRST CORE",
     "type": "Core Arcana",
     "type 2": "Ace",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -1908,14 +1908,14 @@
         "isHorizontal": false
       }
     },
-    "name": "II. THE SECOND",
+    "name": "II. THE SECOND CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -1926,21 +1926,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "III. THE THIRD",
+        "name": "III. THE THIRD CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-081.jpg",
         "isHorizontal": false
       }
     },
-    "name": "III. THE THIRD",
+    "name": "III. THE THIRD CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "WANDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -1951,21 +1951,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IV. THE FOURTH",
+        "name": "IV. THE FOURTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-082.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IV. THE FOURTH",
+    "name": "IV. THE FOURTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -1976,21 +1976,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "V. THE FIFTH",
+        "name": "V. THE FIFTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-083.jpg",
         "isHorizontal": false
       }
     },
-    "name": "V. THE FIFTH",
+    "name": "V. THE FIFTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "LANTERNS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -2001,21 +2001,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. THE SIXTH",
+        "name": "VI. THE SIXTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-084.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. THE SIXTH",
+    "name": "VI. THE SIXTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -2026,21 +2026,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VII. THE SEVENTH",
+        "name": "VII. THE SEVENTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-085.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VII. THE SEVENTH",
+    "name": "VII. THE SEVENTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SWORDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -2051,21 +2051,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. THE EIGHTH",
+        "name": "VIII. THE EIGHTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-086.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE EIGHTH",
+    "name": "VIII. THE EIGHTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -2076,21 +2076,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "IX. THE NINTH",
+        "name": "IX. THE NINTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-087.jpg",
         "isHorizontal": false
       }
     },
-    "name": "IX. THE NINTH",
+    "name": "IX. THE NINTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Common",
     "suit 1": "SHIELDS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
@@ -2101,21 +2101,21 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "X. THE TENTH",
+        "name": "X. THE TENTH CORE",
         "type": "Core Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-088.jpg",
         "isHorizontal": false
       }
     },
-    "name": "X. THE TENTH",
+    "name": "X. THE TENTH CORE",
     "type": "Core Arcana",
-    "type 2": "",
+    "type 2": ",
     "cost": 0,
     "rarity": "Rare",
     "suit 1": "RELICS",
-    "suit 2": "",
-    "promote": "",
+    "suit 2": ",
+    "promote": ",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
     "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
