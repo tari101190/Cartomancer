@@ -85,7 +85,11 @@
         "categoriesAlreadyOnBoard": [
           "Core Arcana"
         ],
-        "autoPlayFromHand": {},
+        "autoPlayFromHand": {
+          "Core Arcana": "Hand",
+          "Minor Arcana": "Hand",
+          "Major Arcana": "Hand"
+        },
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Core Arcana": {
