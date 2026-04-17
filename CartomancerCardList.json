@@ -7,14 +7,14 @@
         "name": "0. THE BARD",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-022.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-022.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -38,14 +38,14 @@
         "name": "I. THE MAGE",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-01.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-01.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -69,14 +69,14 @@
         "name": "II. THE HIGH-PRIESTESS",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-02.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-02.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -100,14 +100,14 @@
         "name": "III. THE EMPRESS",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-03.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-03.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -131,14 +131,14 @@
         "name": "IV. THE EMPEROR",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-04.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-04.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -162,14 +162,14 @@
         "name": "V. THE HIGH-PRIEST",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-05.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-05.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -193,14 +193,14 @@
         "name": "VI. UNITY",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-06.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-06.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -224,14 +224,14 @@
         "name": "VII. THE RIDER",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-07.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-07.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -255,14 +255,14 @@
         "name": "VIII. POWER",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-08.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-08.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -286,14 +286,14 @@
         "name": "IX. THE SAGE",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-09.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-09.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -317,14 +317,14 @@
         "name": "X. FATE",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-010.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-010.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -348,14 +348,14 @@
         "name": "XI. JUSTICE",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-011.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-011.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -379,14 +379,14 @@
         "name": "XII. THE HANGED",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-012.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-012.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -410,14 +410,14 @@
         "name": "XIII. DEATH",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-013.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-013.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -441,14 +441,14 @@
         "name": "XIV. WILL",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-014.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-014.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -472,14 +472,14 @@
         "name": "XV. THE DEVIL",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-015.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-015.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -503,14 +503,14 @@
         "name": "XVI. THE TOWER",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-016.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-016.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -534,14 +534,14 @@
         "name": "XV. THE STAR",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-017.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-017.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -565,14 +565,14 @@
         "name": "XVIII. THE MOON",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-018.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-018.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -596,14 +596,14 @@
         "name": "XIX. THE SUN",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-019.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-019.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -627,14 +627,14 @@
         "name": "XX. JUDGEMENT",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-020.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-020.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
       }
     },
@@ -658,14 +658,14 @@
         "name": "XXI. THE WORLD",
         "type": "Major Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-021.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-021.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
       }
     },
@@ -689,14 +689,14 @@
         "name": "I. THE ACE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-023.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-023.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -720,14 +720,14 @@
         "name": "II. THE SECOND",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-024.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-024.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -751,14 +751,14 @@
         "name": "III. THE THIRD",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-025.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-025.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -782,14 +782,14 @@
         "name": "IV. THE FOURTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-026.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-026.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -813,14 +813,14 @@
         "name": "V. THE FIFTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-027.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-027.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -844,14 +844,14 @@
         "name": "VI. THE SIXTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-028.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-028.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -875,14 +875,14 @@
         "name": "VII. THE SEVENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-029.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-029.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -906,14 +906,14 @@
         "name": "VIII. THE EIGHTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-030.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-030.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -937,14 +937,14 @@
         "name": "IX. THE NINTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-031.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-031.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -968,14 +968,14 @@
         "name": "X. THE TENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-032.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-032.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -999,14 +999,14 @@
         "name": "XI. PRINCE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-033.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-033.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1030,14 +1030,14 @@
         "name": "XII. THE KNIGHT",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-034.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-034.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1061,14 +1061,14 @@
         "name": "XIII. QUEEN",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-035.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-035.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1092,14 +1092,14 @@
         "name": "XIV. KING",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-036.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-036.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1123,14 +1123,14 @@
         "name": "I. THE ACE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-037.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-037.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1154,14 +1154,14 @@
         "name": "II. THE SECOND",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-038.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-038.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1185,14 +1185,14 @@
         "name": "III. THE THIRD",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-039.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-039.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1216,14 +1216,14 @@
         "name": "IV. THE FOURTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-040.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-040.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1247,14 +1247,14 @@
         "name": "V. THE FIFTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-042.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-042.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1278,14 +1278,14 @@
         "name": "VI. THE SIXTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-043.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-043.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1309,14 +1309,14 @@
         "name": "VII. THE SEVENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-044.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-044.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1340,14 +1340,14 @@
         "name": "VIII. THE EIGHTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-045.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-045.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1371,14 +1371,14 @@
         "name": "IX. THE NINTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-046.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-046.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1402,14 +1402,14 @@
         "name": "X. THE TENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-047.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-047.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1433,14 +1433,14 @@
         "name": "XI. PRINCE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-048.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-048.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1464,14 +1464,14 @@
         "name": "XII. THE KNIGHT",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-049.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-049.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1495,14 +1495,14 @@
         "name": "XIII. QUEEN",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-050.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-050.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1526,14 +1526,14 @@
         "name": "XIV. KING",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-051.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-051.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1557,14 +1557,14 @@
         "name": "I. THE ACE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-051.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-051.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1588,14 +1588,14 @@
         "name": "II. THE SECOND",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-052.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-052.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1619,14 +1619,14 @@
         "name": "III. THE THIRD",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-053.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-053.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1650,14 +1650,14 @@
         "name": "IV. THE FOURTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-054.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-054.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1681,14 +1681,14 @@
         "name": "V. THE FIFTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-055.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-055.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1712,14 +1712,14 @@
         "name": "VI. THE SIXTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-056.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-056.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1743,14 +1743,14 @@
         "name": "VII. THE SEVENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-057.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-057.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1774,14 +1774,14 @@
         "name": "VIII. THE EIGHTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-058.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-058.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1805,14 +1805,14 @@
         "name": "IX. THE NINTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-059.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-059.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1836,14 +1836,14 @@
         "name": "X. THE TENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-060.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-060.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1867,14 +1867,14 @@
         "name": "XI. PRINCE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-061.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-061.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1898,14 +1898,14 @@
         "name": "XII. THE KNIGHT",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-062.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-062.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1929,14 +1929,14 @@
         "name": "XIII. QUEEN",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-063.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-063.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1960,14 +1960,14 @@
         "name": "XIV. KING",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-064.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-064.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -1991,14 +1991,14 @@
         "name": "I. THE ACE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-065.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-065.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2022,14 +2022,14 @@
         "name": "II. THE SECOND",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-066.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-066.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2053,14 +2053,14 @@
         "name": "III. THE THIRD",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-067.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-067.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2084,14 +2084,14 @@
         "name": "IV. THE FOURTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-068.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-068.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2115,14 +2115,14 @@
         "name": "V. THE FIFTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-069.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-069.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2146,14 +2146,14 @@
         "name": "VI. THE SIXTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-070.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-070.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2177,14 +2177,14 @@
         "name": "VII. THE SEVENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-071.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-071.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2208,14 +2208,14 @@
         "name": "VIII. THE EIGHTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-072.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-072.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2239,14 +2239,14 @@
         "name": "IX. THE NINTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-073.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-073.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2270,14 +2270,14 @@
         "name": "X. THE TENTH",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-074.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-074.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2301,14 +2301,14 @@
         "name": "XI. PRINCE",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-075.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-075.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2332,14 +2332,14 @@
         "name": "XII. THE KNIGHT",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-076.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-076.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2363,14 +2363,14 @@
         "name": "XIII. QUEEN",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-077.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-077.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2394,14 +2394,14 @@
         "name": "XIV. KING",
         "type": "Minor Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-078.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-078.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2425,14 +2425,14 @@
         "name": "I. THE ACE",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-079.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-079.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2457,14 +2457,14 @@
         "name": "II. THE SECOND",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-080.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-080.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2489,14 +2489,14 @@
         "name": "III. THE THIRD",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-081.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-081.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2521,14 +2521,14 @@
         "name": "IV. THE FOURTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-082.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-082.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2553,14 +2553,14 @@
         "name": "V. THE FIFTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-083.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-083.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2585,14 +2585,14 @@
         "name": "VI. THE SIXTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-084.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-084.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2617,14 +2617,14 @@
         "name": "VII. THE SEVENTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-085.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-085.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2649,14 +2649,14 @@
         "name": "VIII. THE EIGHTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-086.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-086.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2681,14 +2681,14 @@
         "name": "IX. THE NINTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-087.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-087.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
@@ -2713,14 +2713,14 @@
         "name": "X. THE TENTH",
         "type": "Core Arcana",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-088.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-088.jpg",
         "isHorizontal": false
       },
       "back": {
         "name": "Card Back",
         "type": "",
         "cost": 0,
-        "image": "https://github.com/tari101190/Cartomancer/blob/main/Cartomancer-089.jpg",
+        "image": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
         "isHorizontal": false
   }
 },
