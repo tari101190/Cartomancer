@@ -104,6 +104,7 @@
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
+            "drawPerTurn": 0,
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
