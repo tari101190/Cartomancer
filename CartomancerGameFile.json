@@ -1,6 +1,6 @@
 {
   "name": "Cartomancer",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://tari101190.github.io/Cartomancer/Cartomancer-089.jpg",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://tari101190.github.io/Cartomancer/CartomancerDecks.json"
