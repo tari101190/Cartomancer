@@ -1893,7 +1893,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
   },
   "CORE-002": {
@@ -1918,7 +1918,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-003": {
@@ -1943,7 +1943,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-004": {
@@ -1968,7 +1968,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-005": {
@@ -1993,7 +1993,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-006": {
@@ -2018,7 +2018,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
   },
   "CORE-007": {
@@ -2043,7 +2043,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
   },
   "CORE-008": {
@@ -2068,7 +2068,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
   },
   "CORE-009": {
@@ -2093,7 +2093,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
   },
   "CORE-010": {
@@ -2118,7 +2118,7 @@
     "promote": "",
     "effect 1": "Can't attack.",
     "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Add 1 discarded card to hand.",
+    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
     "effect 4": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
   }
 }
