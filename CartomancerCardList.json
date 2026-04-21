@@ -148,14 +148,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VI. UNITY",
+        "name": "VI. THE UNITED",
         "type": "Major Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-06.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VI. UNITY",
+    "name": "VI. THE UNITED",
     "type": "Major Arcana",
     "type 2": "",
     "cost": 0,
@@ -196,14 +196,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VIII. POWER",
+        "name": "VIII. STRENGTH",
         "type": "Major Arcana",
         "cost": 0,
         "image": "https://tari101190.github.io/Cartomancer/Cartomancer-08.jpg",
         "isHorizontal": false
       }
     },
-    "name": "VIII. THE POWER",
+    "name": "VIII. STRENGTH",
     "type": "Major Arcana",
     "type 2": "",
     "cost": 0,
