@@ -1891,10 +1891,11 @@
     "suit 1": "RELICS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
+    "effect 1": "[Trigger] Rest and seal 1 enemy card.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
   },
   "CORE-002": {
     "id": "CORE-002",
@@ -1916,10 +1917,11 @@
     "suit 1": "WANDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
+    "effect 1": "[Trigger] 1 enemy card can’t purge for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-003": {
     "id": "CORE-003",
@@ -1941,10 +1943,11 @@
     "suit 1": "WANDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
+    "effect 1": "[Trigger] 1 enemy card can’t purge for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-004": {
     "id": "CORE-004",
@@ -1966,10 +1969,11 @@
     "suit 1": "LANTERNS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
+    "effect 1": "[Trigger] 1 enemy card can’t purge for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-005": {
     "id": "CORE-005",
@@ -1991,10 +1995,11 @@
     "suit 1": "LANTERNS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
+    "effect 1": "[Trigger] 1 enemy card can’t purge for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-006": {
     "id": "CORE-006",
@@ -2016,10 +2021,11 @@
     "suit 1": "SWORDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
+    "effect 1": "[Trigger] 1 enemy card can’t rest or stand for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-007": {
     "id": "CORE-007",
@@ -2041,10 +2047,11 @@
     "suit 1": "SWORDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
+    "effect 1": "[Trigger] 1 enemy card can’t rest or stand for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-008": {
     "id": "CORE-008",
@@ -2066,10 +2073,11 @@
     "suit 1": "SHIELDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
+    "effect 1": "[Trigger] 1 enemy card can’t rest or stand for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-009": {
     "id": "CORE-009",
@@ -2091,10 +2099,11 @@
     "suit 1": "SHIELDS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Enemy loses 1 AP for the battle."
+    "effect 1": "[Trigger] 1 enemy card can’t rest or stand for the turn.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Discard 1 enemy equip card."
   },
   "CORE-010": {
     "id": "CORE-010",
@@ -2116,9 +2125,10 @@
     "suit 1": "RELICS",
     "suit 2": "",
     "promote": "",
-    "effect 1": "Can't attack.",
-    "effect 2": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
-    "effect 3": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
-    "effect 4": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
+    "effect 1": "[Trigger] Rest and seal 1 enemy card.",
+    "effect 2": "Can't attack.",
+    "effect 3": "[Hand] [Your Action Phase] Equip under 1 of your cards.",
+    "effect 4": "[Hand] [Your Action Phase] [Discard] Draw 2 cards.",
+    "effect 5": "[Hand] [Your Action Phase] [Discard] Stop 1 enemy attack."
   }
 }
