@@ -84,7 +84,7 @@
           "Core Arcana"
         ],
         "autoPlayFromHand": {
-          "Core Arcana": "Hand",
+          "Core Arcana": "Stack",
           "Minor Arcana": "Hand",
           "Major Arcana": "Hand"
         },
