@@ -97,7 +97,7 @@
             "alignment": "DECK",
             "drawPerTurn": 0,
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": "false",
             "isHorizontalAllowed": false,
             "displayedTitle": "Core Deck",
             "enterTapped": false,
