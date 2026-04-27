@@ -1,7 +1,403 @@
 [
   {
-    "title": "Cartomancer Deck",
-    "id": "Cartomancer Deck",
+    "title": "Cartomancer Deck (Half 1, 44 cards)",
+    "id": "Cartomancer Deck (Half 1, 44 cards)",
+    "game": "Cartomancer",
+    "format": ["Cartomancer"],
+    "cardCount": 44,
+    "createdAt": "",
+    "lastModifiedAt": "",
+    "deckList": {
+      "categoriesOrder": [
+        "Core Arcana",
+        "Major Arcana",
+        "Minor Arcana"
+      ],
+      "Core Arcana": [
+        {
+          "count": 1,
+          "id": "CORE-001"
+        },
+        {
+          "count": 1,
+          "id": "CORE-003"
+        },
+        {
+          "count": 1,
+          "id": "CORE-005"
+        },
+        {
+          "count": 1,
+          "id": "CORE-007"
+        },
+        {
+          "count": 1,
+          "id": "CORE-009"
+        }
+      ],
+      "Major Arcana": [
+        {
+          "count": 1,
+          "id": "ARCN-001"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-003"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-005"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-007"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-009"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-011"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-013"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-015"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-017"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-019"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-021"
+        }
+      ],
+      "Minor Arcana": [
+        {
+          "count": 1,
+          "id": "WAND-001"
+        },
+        {
+          "count": 1,
+          "id": "WAND-003"
+        },
+        {
+          "count": 1,
+          "id": "WAND-005"
+        },
+        {
+          "count": 1,
+          "id": "WAND-007"
+        },
+        {
+          "count": 1,
+          "id": "WAND-009"
+        },
+        {
+          "count": 1,
+          "id": "WAND-011"
+        },
+        {
+          "count": 1,
+          "id": "WAND-013"
+        },
+        {
+          "count": 1,
+          "id": "LANT-002"
+        },
+        {
+           "count": 1,
+          "id": "LANT-004"
+        },
+        {
+          "count": 1,
+          "id": "LANT-006"
+        },
+        {
+          "count": 1,
+          "id": "LANT-008"
+        },
+        {
+          "count": 1,
+          "id": "LANT-010"
+        },
+        {
+          "count": 1,
+          "id": "LANT-012"
+        },
+        {
+          "count": 1,
+          "id": "LANT-014"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-001"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-003"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-005"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-007"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-009"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-011"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-013"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-002"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-004"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-006"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-008"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-010"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-012"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-014"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cartomancer Deck (Half 2, 44 cards)",
+    "id": "Cartomancer Deck (Half 2, 44 cards)",
+    "game": "Cartomancer",
+    "format": ["Cartomancer"],
+    "cardCount": 44,
+    "createdAt": "",
+    "lastModifiedAt": "",
+    "deckList": {
+      "categoriesOrder": [
+        "Core Arcana",
+        "Major Arcana",
+        "Minor Arcana"
+      ],
+      "Core Arcana": [
+        {
+          "count": 1,
+          "id": "CORE-002"
+        },
+        {
+          "count": 1,
+          "id": "CORE-004"
+        },
+        {
+          "count": 1,
+          "id": "CORE-006"
+        },
+        {
+          "count": 1,
+          "id": "CORE-008"
+        },
+        {
+          "count": 1,
+          "id": "CORE-010"
+        }
+      ],
+      "Major Arcana": [
+        {
+          "count": 1,
+          "id": "ARCN-000"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-002"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-004"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-006"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-008"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-010"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-012"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-014"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-016"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-018"
+        },
+        {
+          "count": 1,
+          "id": "ARCN-020"
+        }
+      ],
+      "Minor Arcana": [
+        {
+          "count": 1,
+          "id": "WAND-002"
+        },
+        {
+          "count": 1,
+          "id": "WAND-004"
+        },
+        {
+          "count": 1,
+          "id": "WAND-006"
+        },
+        {
+          "count": 1,
+          "id": "WAND-008"
+        },
+        {
+          "count": 1,
+          "id": "WAND-010"
+        },
+        {
+          "count": 1,
+          "id": "WAND-012"
+        },
+        {
+          "count": 1,
+          "id": "WAND-014"
+        },
+        {
+           "count": 1,
+          "id": "LANT-001"
+        },
+        {
+          "count": 1,
+          "id": "LANT-003"
+        },
+        {
+          "count": 1,
+          "id": "LANT-005"
+        },
+        {
+          "count": 1,
+          "id": "LANT-007"
+        },
+        {
+          "count": 1,
+          "id": "LANT-009"
+        },
+        {
+          "count": 1,
+          "id": "LANT-011"
+        },
+        {
+          "count": 1,
+          "id": "LANT-013"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-002"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-004"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-006"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-008"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-010"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-012"
+        },
+        {
+          "count": 1,
+          "id": "SWRD-014"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-001"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-003"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-005"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-007"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-009"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-011"
+        },
+        {
+          "count": 1,
+          "id": "SHLD-013"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cartomancer Deck (Full Deck, 88 cards)",
+    "id": "Cartomancer Deck (Full Deck, 88 cards)",
     "game": "Cartomancer",
     "format": ["Cartomancer"],
     "cardCount": 88,
@@ -369,402 +765,6 @@
         {
           "count": 1,
           "id": "SHLD-014"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cartomancer Deck (Half 1)",
-    "id": "Cartomancer Deck (Half 1)",
-    "game": "Cartomancer",
-    "format": ["Cartomancer"],
-    "cardCount": 44,
-    "createdAt": "",
-    "lastModifiedAt": "",
-    "deckList": {
-      "categoriesOrder": [
-        "Core Arcana",
-        "Major Arcana",
-        "Minor Arcana"
-      ],
-      "Core Arcana": [
-        {
-          "count": 1,
-          "id": "CORE-001"
-        },
-        {
-          "count": 1,
-          "id": "CORE-003"
-        },
-        {
-          "count": 1,
-          "id": "CORE-005"
-        },
-        {
-          "count": 1,
-          "id": "CORE-007"
-        },
-        {
-          "count": 1,
-          "id": "CORE-009"
-        }
-      ],
-      "Major Arcana": [
-        {
-          "count": 1,
-          "id": "ARCN-001"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-003"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-005"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-007"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-009"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-011"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-013"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-015"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-017"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-019"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-021"
-        }
-      ],
-      "Minor Arcana": [
-        {
-          "count": 1,
-          "id": "WAND-001"
-        },
-        {
-          "count": 1,
-          "id": "WAND-003"
-        },
-        {
-          "count": 1,
-          "id": "WAND-005"
-        },
-        {
-          "count": 1,
-          "id": "WAND-007"
-        },
-        {
-          "count": 1,
-          "id": "WAND-009"
-        },
-        {
-          "count": 1,
-          "id": "WAND-011"
-        },
-        {
-          "count": 1,
-          "id": "WAND-013"
-        },
-        {
-          "count": 1,
-          "id": "LANT-002"
-        },
-        {
-           "count": 1,
-          "id": "LANT-004"
-        },
-        {
-          "count": 1,
-          "id": "LANT-006"
-        },
-        {
-          "count": 1,
-          "id": "LANT-008"
-        },
-        {
-          "count": 1,
-          "id": "LANT-010"
-        },
-        {
-          "count": 1,
-          "id": "LANT-012"
-        },
-        {
-          "count": 1,
-          "id": "LANT-014"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-001"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-003"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-005"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-007"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-009"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-011"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-013"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-002"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-004"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-006"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-008"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-010"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-012"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-014"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Cartomancer Deck (Half 2)",
-    "id": "Cartomancer Deck (Half 2)",
-    "game": "Cartomancer",
-    "format": ["Cartomancer"],
-    "cardCount": 44,
-    "createdAt": "",
-    "lastModifiedAt": "",
-    "deckList": {
-      "categoriesOrder": [
-        "Core Arcana",
-        "Major Arcana",
-        "Minor Arcana"
-      ],
-      "Core Arcana": [
-        {
-          "count": 1,
-          "id": "CORE-002"
-        },
-        {
-          "count": 1,
-          "id": "CORE-004"
-        },
-        {
-          "count": 1,
-          "id": "CORE-006"
-        },
-        {
-          "count": 1,
-          "id": "CORE-008"
-        },
-        {
-          "count": 1,
-          "id": "CORE-010"
-        }
-      ],
-      "Major Arcana": [
-        {
-          "count": 1,
-          "id": "ARCN-000"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-002"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-004"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-006"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-008"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-010"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-012"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-014"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-016"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-018"
-        },
-        {
-          "count": 1,
-          "id": "ARCN-020"
-        }
-      ],
-      "Minor Arcana": [
-        {
-          "count": 1,
-          "id": "WAND-002"
-        },
-        {
-          "count": 1,
-          "id": "WAND-004"
-        },
-        {
-          "count": 1,
-          "id": "WAND-006"
-        },
-        {
-          "count": 1,
-          "id": "WAND-008"
-        },
-        {
-          "count": 1,
-          "id": "WAND-010"
-        },
-        {
-          "count": 1,
-          "id": "WAND-012"
-        },
-        {
-          "count": 1,
-          "id": "WAND-014"
-        },
-        {
-           "count": 1,
-          "id": "LANT-001"
-        },
-        {
-          "count": 1,
-          "id": "LANT-003"
-        },
-        {
-          "count": 1,
-          "id": "LANT-005"
-        },
-        {
-          "count": 1,
-          "id": "LANT-007"
-        },
-        {
-          "count": 1,
-          "id": "LANT-009"
-        },
-        {
-          "count": 1,
-          "id": "LANT-011"
-        },
-        {
-          "count": 1,
-          "id": "LANT-013"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-002"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-004"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-006"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-008"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-010"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-012"
-        },
-        {
-          "count": 1,
-          "id": "SWRD-014"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-001"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-003"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-005"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-007"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-009"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-011"
-        },
-        {
-          "count": 1,
-          "id": "SHLD-013"
         }
       ]
     }
