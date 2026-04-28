@@ -1,7 +1,7 @@
 [
   {
-    "title": "Cartomancer Deck (Half 1, 44 cards)",
-    "id": "Cartomancer Deck (Half 1, 44 cards)",
+    "title": "Cartomancer Half Deck 1 (44 cards)",
+    "id": "Cartomancer Half Deck 1 (44 cards)",
     "game": "Cartomancer",
     "format": ["Cartomancer"],
     "cardCount": 44,
@@ -198,8 +198,8 @@
     }
   },
   {
-    "title": "Cartomancer Deck (Half 2, 44 cards)",
-    "id": "Cartomancer Deck (Half 2, 44 cards)",
+    "title": "CartCartomancer Half Deck 2 (44 cards)",
+    "id": "Cartomancer Half Deck 2 (44 cards)",
     "game": "Cartomancer",
     "format": ["Cartomancer"],
     "cardCount": 44,
@@ -396,8 +396,8 @@
     }
   },
   {
-    "title": "Cartomancer Deck (Full Deck, 88 cards)",
-    "id": "Cartomancer Deck (Full Deck, 88 cards)",
+    "title": "Cartomancer Full Deck (88 cards)",
+    "id": "Cartomancer Full Deck (88 cards)",
     "game": "Cartomancer",
     "format": ["Cartomancer"],
     "cardCount": 88,
